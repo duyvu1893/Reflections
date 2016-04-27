@@ -1,0 +1,4 @@
+1/
+ Because I know the problem is in these lines of code, I don't have to go through all the lines
+2/
+Easier for other programmer to maintain the work
